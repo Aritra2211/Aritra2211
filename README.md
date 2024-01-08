@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Aritra2211
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on none
+Sorry for deleting everything
 
 
 <!---
